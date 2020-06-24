@@ -1,0 +1,414 @@
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 530;
+    font-size: small;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.my-name{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+.my-roll-no{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+.th{
+    width: auto;
+    height: 100px;
+    background-color: rgb(255, 249, 93);
+    font-family: Arial, Helvetica, sans-serif;
+    font: bold;
+    font-size: 80px;
+    padding: 0 100px 0 100px;
+    border: none;
+}
+.td-1{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(255, 154, 102);
+    color: green;
+    border: 1px solid black;
+}
+.td-1:hover{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(228, 231, 248);
+    color: green;
+}
+.td-1:active{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(255, 154, 102);
+    color: green;
+}
+.td-2{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(228, 231, 248);
+    color: green;
+    border: 1px solid black;
+}
+.td-2:hover{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(255, 154, 102);
+    color: green;
+}
+.td-2:active{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(228, 231, 248);
+    color: green;
+}
+.td-3{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(221, 160, 220);
+    color: black;
+    border: 1px solid black;
+}
+.td-3:hover{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(144, 199, 255);
+    color: black;
+}
+.td-3:active{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(221, 160, 220);
+    color: black;
+}
+.td-4{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(144, 199, 255);
+    color: black;
+    border: 1px solid black;
+}
+.td-4:hover{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(221, 160, 220);
+    color: black;
+}
+.td-4:active{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(144, 199, 255);
+    color: black;
+}
+.td-5{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(199, 154, 13);
+    color: black;
+    border: 1px solid black;
+}
+.td-5:hover{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(255, 153, 102);
+    color: black;
+}
+.td-5:active{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(199, 154, 13);
+    color: black;
+}
+.td-6{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(255, 153, 102);
+    color: black;
+    border: 1px solid black;
+}
+.td-6:hover{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(199, 154, 13);
+    color: black;
+}
+.td-6:active{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(255, 153, 102);
+    color: black;
+}
+.td-9{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(230, 223, 171);
+    color: green;
+    border: 1px solid black;
+}
+.td-9:hover{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(204, 235, 141);
+    color: black;
+}
+.td-9:active{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(230, 223, 171);
+    color: green;
+}
+.td-13{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(204, 235, 141);
+    color: black;
+    border: 1px solid black;
+}
+.td-13:hover{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(230, 223, 171);
+    color: green;
+}
+.td-13:active{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(204, 235, 141);
+    color: black;
+}
+.td-21{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(255, 238, 149);
+    color: black;
+    border: 1px solid black;
+}
+.td-21:hover{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(204, 235, 141);
+    color: blue;
+}
+.td-21:active{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(255, 238, 149);
+    color: black;
+}
+.td-31{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(204, 235, 141);
+    color: blue;
+    border: 1px solid black;
+}
+.td-31:hover{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(255, 238, 149);
+    color: black;
+}
+.td-31:active{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(204, 235, 141);
+    color: blue;
+}
+.td-35{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(230, 223, 171);
+    color: blue;
+    border: 1px solid black;
+}
+.td-35:hover{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(255, 238, 149);
+    color: brown;
+}
+.td-35:active{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(230, 223, 171);
+    color: blue;
+}
+.td-43{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(255, 238, 149);
+    color: brown;
+    border: 1px solid black;
+}
+.td-43:hover{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(230, 223, 171);
+    color: blue;
+}
+.td-43:active{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(255, 238, 149);
+    color: brown;
+}
+.td-53{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(230, 223, 171);
+    color: black;
+    border: 1px solid black;
+}
+.td-53:hover{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(221, 160, 220);
+    color: blue;
+}
+.td-53:active{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(230, 223, 171);
+    color: black;
+}
+.td-55{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(221, 160, 220);
+    color: blue;
+    border: 1px solid black;
+}
+.td-55:hover{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(230, 223, 171);
+    color: black;
+}
+.td-55:active{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(221, 160, 220);
+    color: blue;
+}
+.td-57{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(253, 238, 241);
+    color: black;
+    border: 1px solid black;
+}
+.td-57:hover{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(255, 238, 149);
+    color: blue;
+}
+.td-57:active{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(253, 238, 241);
+    color: black;
+}
+.td-61{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(253, 238, 241);
+    color: brown;
+    border: 1px solid black;
+}
+.td-61:hover{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(243, 243, 243);
+    color: brown;
+}
+.td-61:active{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(253, 238, 241);
+    color: brown;
+}
+.td-57-71{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(251, 239, 239);
+    color: black;
+    border: 1px solid black;
+    vertical-align: text-top;
+}
+.p-1-2{
+    position: relative;
+    bottom: 8px;
+}
+.p-1-3{
+    position: relative;
+    right: 2px;
+}
+.td-57-71:hover{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(255, 238, 149);
+    color: blue;
+}
+.td-57-71:active{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(251, 239, 239);
+    color: black;
+}
+.td-80{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(255, 238, 149);
+    color: blue;
+    border: 1px solid black;
+}
+.td-80:hover{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(251, 239, 239);
+    color: black;
+}
+.td-80:active{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(255, 238, 149);
+    color: blue;
+}
+.td-113{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(243, 243, 243);
+    color: brown;
+    border: 1px solid black;
+}
+.td-113:hover{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(253, 238, 241);
+    color: brown;
+}
+.td-113:active{
+    width: 45px;
+    height: 40px;
+    background-color: rgb(243, 243, 243);
+    color: brown;
+}
+.p-1{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p-1-1{
+    font-weight: bold;
+    font-size: 11px;
+}
+.btn{
+    border: none;
+}
+.btn:hover{
+    box-shadow: 0px 0px 5px black;
+}
